@@ -10,7 +10,8 @@
 <style>
 
 footer {
-	position: fixed;
+	position: absolute;
+	top: 1000px;
 	left: 0;
 	bottom: 0;
   	height: 140px;
